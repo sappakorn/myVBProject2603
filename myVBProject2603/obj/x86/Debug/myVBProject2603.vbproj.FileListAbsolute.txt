@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\myVBProject2603\myVBProject2603\bin\Debug\myVBProject2603.exe
+C:\Users\user\Desktop\myVBProject2603\myVBProject2603\bin\Debug\myVBProject2603.pdb
+C:\Users\user\Desktop\myVBProject2603\myVBProject2603\bin\Debug\myVBProject2603.xml
+C:\Users\user\Desktop\myVBProject2603\myVBProject2603\obj\x86\Debug\nebodyproject.frmLab1.resources
+C:\Users\user\Desktop\myVBProject2603\myVBProject2603\obj\x86\Debug\nebodyproject.Resources.resources
+C:\Users\user\Desktop\myVBProject2603\myVBProject2603\obj\x86\Debug\myVBProject2603.vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\myVBProject2603\myVBProject2603\obj\x86\Debug\myVBProject2603.exe
+C:\Users\user\Desktop\myVBProject2603\myVBProject2603\obj\x86\Debug\myVBProject2603.xml
+C:\Users\user\Desktop\myVBProject2603\myVBProject2603\obj\x86\Debug\myVBProject2603.pdb

@@ -1,0 +1,9 @@
+C:\Users\user\AppData\Local\Temporary Projects\nebodyproject\bin\Debug\nebodyproject.exe
+C:\Users\user\AppData\Local\Temporary Projects\nebodyproject\bin\Debug\nebodyproject.pdb
+C:\Users\user\AppData\Local\Temporary Projects\nebodyproject\bin\Debug\nebodyproject.xml
+C:\Users\user\AppData\Local\Temporary Projects\nebodyproject\obj\x86\Debug\nebodyproject.Resources.resources
+C:\Users\user\AppData\Local\Temporary Projects\nebodyproject\obj\x86\Debug\nebodyproject.vbproj.GenerateResource.Cache
+C:\Users\user\AppData\Local\Temporary Projects\nebodyproject\obj\x86\Debug\nebodyproject.exe
+C:\Users\user\AppData\Local\Temporary Projects\nebodyproject\obj\x86\Debug\nebodyproject.xml
+C:\Users\user\AppData\Local\Temporary Projects\nebodyproject\obj\x86\Debug\nebodyproject.pdb
+C:\Users\user\AppData\Local\Temporary Projects\nebodyproject\obj\x86\Debug\nebodyproject.frmLab1.resources
